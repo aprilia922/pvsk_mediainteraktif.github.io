@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 293.7 58.2;" viewBox="0 0 293.7 58.2" y="0px" x="0px" id="Layer_1" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#1C8284;}
+	.st1{fill:#0E4142;}
+	.st2{fill:#60A7A8;}
+</style><g id="Layer_2_00000104668865871696010750000016583191217028536996_"><g id="objects"><polygon data-cppathid="10000" points="72.3,58.2 0,58.2 15.6,37.4 0,16.7 72.3,16.7   " class="st0"/><polygon data-cppathid="10001" points="72.3,58.2 37.6,41.5 37.6,0 72.3,16.7   " class="st1"/><polygon data-cppathid="10002" points="221.4,58.2 293.7,58.2 278,37.4 293.7,16.7 221.4,16.7   " class="st0"/><polygon data-cppathid="10003" points="221.4,58.2 256.1,41.5 256.1,0 221.4,16.7   " class="st1"/><rect data-cppathid="10004" height="41.5" width="218.5" class="st2" x="37.6"/></g></g></svg>
